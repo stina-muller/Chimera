@@ -1,0 +1,70 @@
+body {
+    background: url(https://data.whicdn.com/images/225375194/original.gif) no-repeat center center fixed;
+    background-size: cover;
+    back
+    font-family: 'Spirax', cursive;
+}
+
+.pagecontainer {
+    display: inline-flex;
+    flex-wrap: wrap;
+    max-width: 900px;
+    justify-content: space-around;
+  }
+
+.rowcontainer {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.itemcontainer {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#textbox {
+    display: flex;
+    max-width: 200px;
+    color: white;
+    
+}
+
+#bird {
+    display: flex; 
+}
+
+
+#horse{
+    display: flex;
+}
+
+
+#turtle {
+    display: flex;
+}
+
+#human {
+    display: flex;
+}
+
+
+#snake{
+    display: flex;
+}
+
+
+#tiger {
+    display: flex;
+}
+
+
+
+/* input[type=checkbox] {
+    display:none
+}
+
+input[type=checkbox] + label {
+    background: "/animals/bird.png"
+} */
