@@ -1,0 +1,30 @@
+{
+  "name": "chimera",
+  "version": "1.0.0",
+  "description": "Friday Project Week 2",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stina-muller/Chimera.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stina-muller/Chimera/issues"
+  },
+  "homepage": "https://github.com/stina-muller/Chimera#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {
+    "jest": "^22.1.2"
+  }
+}
