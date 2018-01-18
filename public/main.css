@@ -1,5 +1,7 @@
 body {
-    background-image: "/mount.jpg"
+    background: url(https://data.whicdn.com/images/225375194/original.gif) no-repeat center center fixed;
+    background-size: cover;
+    back
     font-family: 'Spirax', cursive;
 }
 
@@ -8,3 +10,4 @@ body {
     flex-wrap: wrap;
     justify-content: center;
   }
+
