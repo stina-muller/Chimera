@@ -1,0 +1,19 @@
+body {
+ /* // max-width: 100%; */
+  background: url('/backgroundimages/cave.jpg'); 
+  background-size: cover;
+}
+
+img {
+  position: relative;
+  width: 30%;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+  position: relative;
+  display:flex;
+  justify-content: space-around;
+}
