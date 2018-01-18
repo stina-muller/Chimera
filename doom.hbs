@@ -1,12 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Chimera's Champion</title>
-</head>
-<body>
-  
-</body>
-</html>
+<!-- this is the same as index.hbs in pupparazzi-->
+
+<div class="container">
+  {{#each the_things_in_the_JSON_file}}
+  <div class="puppy-list">
+    <a href="/puppies/{{id}}"><img class="img-circle" src="{{image}}" alt="{{name}}"></a>
+  </div>
+  {{/each}}
+</div>
