@@ -1,0 +1,95 @@
+{
+  "creatures": [
+    {
+      "name": "Dragon",
+      "pairing": ["Snake","Bird"],
+      "image": "/images/snakebird.jpg",
+      "blurb": "The dragon is a majestic beast with a strong and scaley hide. It fears nothing and can breathe fire."
+    },
+    {
+      "name": "Medusa",
+      "pairing": ["Human","Snake"],
+      "image": "/images/snakehuman.jpg",
+      "blurb": "To look Medusa in the eyes will mean a lifetime in stone. She is a fierce opponent to the terror destroying the world."
+    },
+    {
+      "name": "50 Centaur",
+      "pairing": ["Human","Horse"],
+      "image": "/images/humanhorse.jpg",
+      "blurb": "50 Centaur will take his opponents to the candy shop. 'nuf said."
+    },
+    {
+      "name": "Griffin",
+      "pairing": ["Bird","Horse"],
+      "image": "/images/horsebird.png",
+      "blurb": "The Griffin is fearsome and enjoys long paddles in the pond on his day off. Easily distracted by breadcrumbs, they are its Kryptonite"
+    },
+    {
+      "id": 5,
+      "name": "Horsnake",
+      "pairing": ["Horse","Snake"],
+      "image": "/images/horsesnake.jpg",
+      "blurb": "Horsnake's skin repels liquid and often moves around on its slippery back using its legs instead to fight foes"
+    },
+    {
+      "name": "Tigger",
+      "pairing": ["Tiger","Horse"],
+      "image": "/images/horsetiger.jpg",
+      "blurb": "A tigger's mane is extremely strong and it is able to  whip and nae nae both in dance battles and in the battle field"
+    },
+    {
+      "name": "Hurdle",
+      "pairing": ["Horse","Turtle"],
+      "image": "/images/horseturle.png",
+      "blurb": "A hurdle's shell protects it from all damage, its weight, however, means Hurdle lacks athletic skill"
+    },
+    {
+      "name": "Angel",
+      "pairing": ["Human","bird"],
+      "image": "/images/humanbird.jpg",
+      "blurb": "Angel is one of a kind. What he lacks in skill, he makes up for in sex appeal. One to watch. "
+    },
+    {
+      "name": "Uncle Frank",
+      "pairing": ["Human","Turtle"],
+      "image": "/images/humanturtle.jpg",
+      "blurb": "Uncle Frank is your typical creepy uncle, his snide remarks about that cute outfit will surely make his enemies turn and run"
+    },
+    {
+      "name": "Botched",
+      "pairing": ["Human","Tiger"],
+      "image": "/images/tigerhuman.jpg",
+      "blurb": "A trip to the surgeon gone wrong, Botched's whiskers are made of steel proving to be almost as deadly as its looks"
+    },
+    {
+      "name": "Tird",
+      "pairing": ["Tiger","Bird"],
+      "image": "/images/tigerbird.jpg",
+      "blurb": "Tird's call is one of pure relief. Come within earshot and you are likely to relieve yourself right there and then."
+    },
+    {
+      "name": "Birdle",
+      "pairing": ["Bird","Turtle"],
+      "image": "/images/turtlebird.jpg",
+      "blurb": "He may look cute, but wait until he comes out of his shell. "
+    },
+    {
+      "name": "Shelly",
+      "pairing": ["Turtle","Tiger"],
+      "image": "/images/turtletiger.jpg",
+      "blurb": "Shelly is smelly and likes long walks on the beach, but if you meet him in battle you're likely to see his ferocious underbelly"
+    },
+    {
+      "name": "Snartle",
+      "pairing": ["Snake","Turtle"],
+      "image": "/images/turtlesnake.jpg",
+      "blurb": "Snartle's long neck allows it to see around corners and into cravasses. In battle it uses it like a giraffe wacking its opponents"
+    },
+    {
+      "name": "Snigger",
+      "pairing": ["Snake","Tiger"],
+      "image": "/images/tigersnake.png",
+      "blurb": "The most fearsome of beasts on the battle field, you have chosen well. Snigger's only weakness is cuddles"
+    }
+  ]
+}
