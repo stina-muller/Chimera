@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/stina-muller/Chimera#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "express-handlebars": "^3.0.0"
   },
