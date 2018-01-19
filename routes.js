@@ -20,7 +20,7 @@ router.post('/creature', (req, res)=>{
     const postData = req.body
     const creatureKeys = Object.keys(postData)
   for (let i = 0; i < creaturesData.length; i++) {
-    if(creaturesData[i].pairing[0] === creatureKeys[0] && creatureData[i].pairing[1] === creatureKeys[1]){
+    if(creaturesData[i].pairing[0] === creatureKeys[0] && creaturesData[i].pairing[1] === creatureKeys[1]){
       creature = creaturesData[i] 
       res.render('creature', creature)
     }

@@ -2,6 +2,7 @@ body {
  /* // max-width: 100%; */
   background: url('/backgroundimages/cave.jpg'); 
   background-size: cover;
+  color: white;
 }
 
 img {
