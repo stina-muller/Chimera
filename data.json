@@ -8,7 +8,7 @@
     },
     {
       "name": "Medusa",
-      "pairing": ["Human","Snake"],
+      "pairing": ["Human"," Snake"],
       "image": "/images/snakehuman.jpg",
       "blurb": "To look Medusa in the eyes will mean a lifetime in stone. She is a fierce opponent to the terror destroying the world."
     },
@@ -39,8 +39,8 @@
     },
     {
       "name": "Hurdle",
-      "pairing": ["Horse","Turtle"],
-      "image": "/images/horseturle.png",
+      "pairing": ["Horse"," Turtle"],
+      "image": "/images/horseturtle.png",
       "blurb": "A hurdle's shell protects it from all damage, its weight, however, means Hurdle lacks athletic skill"
     },
     {
@@ -131,7 +131,7 @@
     {
       "name": "Hurdle",
       "pairing": ["Turtle","Horse"],
-      "image": "/images/horseturle.png",
+      "image": "/images/horseturtle.png",
       "blurb": "A hurdle's shell protects it from all damage, its weight, however, means Hurdle lacks athletic skill"
     },
     {
