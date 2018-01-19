@@ -58,7 +58,7 @@
     {
       "name": "Botched",
       "pairing": ["Human","Tiger"],
-      "image": "/images/tigerhuman.jpg",
+      "image": "/images/tigerhuman.png",
       "blurb": "A trip to the surgeon gone wrong, Botched's whiskers are made of steel proving to be almost as deadly as its looks"
     },
     {
@@ -149,7 +149,7 @@
     {
       "name": "Botched",
       "pairing": ["Tiger","Human"],
-      "image": "/images/tigerhuman.jpg",
+      "image": "/images/tigerhuman.png",
       "blurb": "A trip to the surgeon gone wrong, Botched's whiskers are made of steel proving to be almost as deadly as its looks"
     },
     {
