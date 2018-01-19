@@ -9,8 +9,12 @@ img {
   position: relative;
   width: 30%;
   display: block;
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 230px;
+  height: 230px;
 }
 
 div {

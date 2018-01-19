@@ -5,7 +5,6 @@ var routes = require('./routes')
 var server = express()
 
 server.engine('hbs', hbs({
-  defaultLayout: 'main',
   extname: 'hbs'
 }))
 

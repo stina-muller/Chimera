@@ -1,31 +1,32 @@
-body {
-  /* // max-width: 100%; */
+ body {
+   width: 100%;
+   height: 100vh;
    background: url('/images/mount.jpg'); 
+   background-position: center;
    background-size: cover;
+   background-repeat: no-repeat;
+   font-size: 1.2em;
    color: white;
- }
- 
+ } 
+  
 .container{
-  top:50%;
-}
-
-div {
-    margin: auto;
-    width: 30%;
-    padding: 10px;
- }
-
-.divbut {
+  width:100%;
+  height: 100%;
   display: flex;
-  align-items: center;
+  flex-direction: column;
   justify-content: center;
+  align-items: flex-start;
 }
 
-.button{
-  display: flex;
-  justify-content: center;
-  width: 100px;
+.blurb{
+  text-align: center;
+  width:30%;
 }
+
 button{
-  width: 100px;
+  width: 100px; 
+  color: white;
+  border-color: white;
+  background-color: transparent;
+  margin: 20px;
 }
