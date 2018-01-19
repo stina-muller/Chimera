@@ -88,7 +88,7 @@
     {
       "name": "Snigger",
       "pairing": ["Snake","Tiger"],
-      "image": "/images/tigersnake.png",
+      "image": "/images/tigersnake.jpg",
       "blurb": "The most fearsome of beasts on the battle field, you have chosen well. Snigger's only weakness is cuddles"
     },
     {
@@ -179,7 +179,7 @@
     {
       "name": "Snigger",
       "pairing": ["Tiger","Snake"],
-      "image": "/images/tigersnake.png",
+      "image": "/images/tigersnake.jpg",
       "blurb": "The most fearsome of beasts on the battle field, you have chosen well. Snigger's only weakness is cuddles"
     }
   ]
