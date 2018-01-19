@@ -8,7 +8,7 @@
     },
     {
       "name": "Medusa",
-      "pairing": ["Human"," Snake"],
+      "pairing": ["Human","Snake"],
       "image": "/images/snakehuman.jpg",
       "blurb": "To look Medusa in the eyes will mean a lifetime in stone. She is a fierce opponent to the terror destroying the world."
     },
@@ -21,7 +21,7 @@
     {
       "name": "Griffin",
       "pairing": ["Bird","Horse"],
-      "image": "/images/horsebird.png",
+      "image": "/images/horsebird.jpg",
       "blurb": "The Griffin is fearsome and enjoys long paddles in the pond on his day off. Easily distracted by breadcrumbs, they are its Kryptonite"
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "name": "Hurdle",
-      "pairing": ["Horse"," Turtle"],
+      "pairing": ["Horse","Turtle"],
       "image": "/images/horseturtle.png",
       "blurb": "A hurdle's shell protects it from all damage, its weight, however, means Hurdle lacks athletic skill"
     },
@@ -112,7 +112,7 @@
     {
       "name": "Griffin",
       "pairing": ["Horse","Bird"],
-      "image": "/images/horsebird.png",
+      "image": "/images/horsebird.jpg",
       "blurb": "The Griffin is fearsome and enjoys long paddles in the pond on his day off. Easily distracted by breadcrumbs, they are its Kryptonite"
     },
     {
